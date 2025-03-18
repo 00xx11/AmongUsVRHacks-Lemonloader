@@ -1,4 +1,4 @@
-# AmongUsVRHacks [STANDALONE]  
+# AmongUsVRHacks [STANDALONE/LEMONLOADER]  
 **IN DEVELOPMENT**
 *(Currently working on converting to the Oculus input system and fixing bugs)*  
 
